@@ -80,7 +80,6 @@ const character = {
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
   
   ### ✨ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
