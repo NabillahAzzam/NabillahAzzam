@@ -28,7 +28,7 @@ ___/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________
 I'm a person who loves turning code and ideas into reality. When I'm not debugging, you'll find me exploring new technologies, contributing to open source, or probably overthinking my commit messages.
 
 ```javascript
-const developer = {
+const character = {
     name: "Nabillah Azzam Luthfi Mahfudzi",
     location: "Indonesia",
     currentFocus: ["Building cool stuff", "Learning new staff"],
