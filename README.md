@@ -50,17 +50,6 @@ const character = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🎯 Current Focus
 
@@ -68,13 +57,12 @@ const character = {
 - 🌱 Learning about AI/ML and Web3
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about anything tech-related
-- ⚡ Fun fact: There are only 10 types of people in the world: those who understand binary, and those who don't
 
 ## 🏆 Achievements
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&row=1&column=7)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=NabillahAzzam&theme=tokyonight&no-frame=true&row=1&column=7)
   
 </div>
 
