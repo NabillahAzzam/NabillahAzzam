@@ -97,7 +97,7 @@ const developer = {
   
   ### ✨ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
-  ![Snake animation](https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/NabillahAzzam/NabillahAzzam/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 <!--
