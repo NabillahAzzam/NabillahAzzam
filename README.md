@@ -31,7 +31,7 @@ I'm a person who loves turning code and ideas into reality. When I'm not debuggi
 const character = {
     name: "Nabillah Azzam Luthfi Mahfudzi",
     location: "Indonesia",
-    currentFocus: ["Building cool stuff", "Learning new staff"],
+    currentFocus: ["Building cool stuff", "Learning new stuff"],
     funFact: "I debug with console.log and I'm not ashamed",
     askMeAbout: ["tech", "anime", "manhwa"]
 };
